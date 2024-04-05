@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProject/Midterm/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UnrealProject/Midterm/Content/Midterm2.umap",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Midterm2.umap",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/BP_Maze.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/BP_GameMode.uasset",
+				"D:/UnrealProject/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_DOT.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/BI_Deactive.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/WB_InGame.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_Axe.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/Double_Headed_Axe_ugzlabbfa/S_Double_Headed_Axe_ugzlabbfa_lod3_Var1.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_Stake.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_Medkit.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/War_Hammer_Axe_uh1pbcufa/S_War_Hammer_Axe_uh1pbcufa_lod3_Var1.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_Deactivate.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/S_TrapType.uasset",
+				"D:/UnrealProject/Midterm/Content/StarterContent/Particles/P_Steam_Lit.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/War_Hammer_Axe_uh1pbcufa/MI_War_Hammer_Axe_uh1pbcufa_2K.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/War_Hammer_Axe_uh1pbcufa/T_WarHammerAxe_uh1pbcufa_2K_DpR.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/War_Hammer_Axe_uh1pbcufa/T_War_Hammer_Axe_uh1pbcufa_2K_N.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/War_Hammer_Axe_uh1pbcufa/T_War_Hammer_Axe_uh1pbcufa_2K_D.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/Double_Headed_Axe_ugzlabbfa/MI_Double_Headed_Axe_ugzlabbfa_2K.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/Double_Headed_Axe_ugzlabbfa/T_DoubleHeadedAxe_ugzlabbfa_2K_DpR.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/Double_Headed_Axe_ugzlabbfa/T_Double_Headed_Axe_ugzlabbfa_2K_N.uasset",
+				"D:/UnrealProject/Midterm/Content/Megascans/3D_Assets/Double_Headed_Axe_ugzlabbfa/T_Double_Headed_Axe_ugzlabbfa_2K_D.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_TrapDeactivate.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BI_Deactivate.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/E_TrapType.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/NewBlueprint_Child.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/trapmaster.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_HiddenStake.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_DOTDeactivate.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_StakeDeactivate.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_AxeDeactivate.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_DOTDeactive.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/BP_DOT.uasset",
+				"D:/UnrealProject/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Traps/BP_DOTDeactive_Child.uasset",
+				"D:/UnrealProject/Midterm/Content/MyAssetz/Midterm.umap"
+			]
+		}
+	]
+}
